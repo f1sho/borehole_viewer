@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/startScene.unity
+    guid: 411be8d1086129644b10cac0bbe6e9aa
+  - enabled: 1
+    path: Assets/Scenes/boreholeMain.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 41b645325c5361245902bd559a1d9a41, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: e23162df770a9404ea65717a1e2c4ba9, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cce9e9db862fa854f8656f7fb068b075, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a3cdce2398dbe7447aef07dd8e28d0d8, type: 2}
